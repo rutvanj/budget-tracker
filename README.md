@@ -17,7 +17,7 @@ python budget_tracker.py
 
 ## Example
 
-==== Budget Tracker ====
+ Budget Tracker 
 1. Add Expense
 2. View Expenses
 3. Exit
